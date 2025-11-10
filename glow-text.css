@@ -1,0 +1,15 @@
+/* Neon Glow Heading Effect */
+/* Author: Evrim */
+/* Description: Creates a glowing cyan neon effect for h1 headings */
+
+h1 {
+  color: white;
+  text-shadow:
+    0px 0px 10px cyan,
+    0px 0px 20px cyan,
+    0px 0px 50px cyan;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  background-color: #000;
+  padding: 20px;
+}
