@@ -1,4 +1,4 @@
-![Glow Text Effect](https://raw.githubusercontent.com/Evrimsvn/glow-text/main/banner.png)
+![Glow Text Effect](https://raw.githubusercontent.com/Evrimsvn/CSS-Effects-Collection/main/banner.png)
 
 #  CSS Effects Collection
 
