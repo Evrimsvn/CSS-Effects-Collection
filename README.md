@@ -1,3 +1,5 @@
+![Glow Text Effect](https://raw.githubusercontent.com/Evrimsvn/glow-text/main/banner.png)
+
 #  CSS Effects Collection
 
 A collection of small but eye-catching CSS visual effects.  
